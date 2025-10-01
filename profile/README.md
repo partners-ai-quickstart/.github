@@ -1,1 +1,1 @@
-HowTo for Red Hat Parnter looking at building an AI quickstart
+HowTo for Red Hat Parnters looking at building an AI quickstart
